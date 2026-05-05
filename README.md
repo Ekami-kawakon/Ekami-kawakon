@@ -1,20 +1,7 @@
-## Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=41&pause=1000&color=1A9FA5CE&background=2A6BC300&multiline=true&width=435&lines=welcome%2Cthis+is+ekami)](https://git.io/typing-svg)
 
 
-**Ekami-kawakon/Ekami-kawakon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on notherer
-- 🌱 I’m currently learning English stm32 esp32 web
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with
-- 💬 Ask me about 
-- 📫 How to reach me: wechat QQ YouTube 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -27,19 +14,29 @@ Here are some ideas to get you started:
 
 ## My Skills for web 
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress)
 
-## My Skills fo OS
+## My Skils for languages
+![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,php,md,java,vue)
+
+## My Skils for back
+![My Skills](https://skillicons.dev/icons?i=nodejs,nginx,mysql,mongodb)
+
+## My Skills for OS
 ![My Skills](https://skillicons.dev/icons?i=linux,windows,)
 
 ## My favorate editer
 ![My Skills](https://skillicons.dev/icons?i=vscode)
 
-## My Skills fo code
+## My Skills for code
 ![My Skills](https://skillicons.dev/icons?i=git,github,docker,powershell)
 
-## My Skills fo app
+## My Skills for app
 ![My Skills](https://skillicons.dev/icons?i=vue,python)
+
+## My Skills for game
+![My Skills](https://skillicons.dev/icons?i=unity,)
+
 
 ![]()
 ![]()
