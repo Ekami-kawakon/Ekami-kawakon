@@ -2,7 +2,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=41&pause=1000&color=1A9FA5CE&background=2A6BC300&multiline=true&width=435&lines=welcome%2Cthis+is+ekami)](https://git.io/typing-svg)
 
-
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Ekami-kawakon" /> </div>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
