@@ -2,7 +2,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=41&pause=1000&color=1A9FA5CE&background=2A6BC300&multiline=true&width=435&lines=welcome%2Cthis+is+ekami)](https://git.io/typing-svg)
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Ekami-kawakon" /> </div>
+
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -35,8 +35,7 @@
 ## My Skills for app
 ![My Skills](https://skillicons.dev/icons?i=vue,python)
 
-## My Skills for game
-![My Skills](https://skillicons.dev/icons?i=unity,)
+(https://skillicons.dev/icons?i=unity,)
 
 
 ![]()
@@ -44,9 +43,7 @@
 ![]()
 ![]()
 
-[![Ekami-kawakon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ekami-kawakon&theme=dracula)](https://github.com/Ekami-kawakon/github-readme-activity-graph)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekami-kawakon)
 
 
 
