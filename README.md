@@ -36,5 +36,14 @@ Here are some ideas to get you started:
 ![My Skills](https://skillicons.dev/icons?i=vscode)
 
 ## My Skills fo code
-![My Skills](https://skillicons.dev/icons?i=git,github,docker)
+![My Skills](https://skillicons.dev/icons?i=git,github,docker,powershell)
+
+## My Skills fo app
+![My Skills](https://skillicons.dev/icons?i=vue,python)
+
+![]()
+![]()
+![]()
+![]()
+
 
