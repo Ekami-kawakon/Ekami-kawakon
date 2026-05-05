@@ -7,10 +7,9 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I write technical articles at [www.ekami.asia](www.ekami.asia)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+- 💻 I use daily: **.**, **.**, **.**,  **.**
+- 📖 I am currently reading *** by 
+- ⚡ Fun fact: Guita
 
 
 ## My Skills for web 
