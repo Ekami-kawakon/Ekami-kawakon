@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+## 
+<img src![Ekami-kawakon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekami-kawakon&theme=dark&show_icons=true)
 
 
 ## My Skills for web 
@@ -26,3 +27,7 @@ Here are some ideas to get you started:
 
 ## My favorate editer
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
+## My Skills fo code
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+
