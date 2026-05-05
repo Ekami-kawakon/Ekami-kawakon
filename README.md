@@ -5,14 +5,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on notherer
+- 🌱 I’m currently learning English stm32 esp32 web
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with
+- 💬 Ask me about 
+- 📫 How to reach me: wechat QQ YouTube 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+## youtub
+
+
+
+## My Skills for web 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+##
+
