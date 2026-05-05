@@ -8,7 +8,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I write technical articles at [www.ekami.asia](www.ekami.asia)
+- 📝 I write technical articles at [www.ekami.asia]([www.ekami.asia](https://www.ekami.asia/))
 - 💻 I use daily: **.**, **.**, **.**,  **.**
 - 📖 I am currently reading *** by 
 - ⚡ Fun fact: Guita
