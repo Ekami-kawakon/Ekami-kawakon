@@ -10,6 +10,7 @@
 - 💻 I use daily: **.**, **.**, **.**,  **.**
 - 📖 I am currently reading *** by 
 - ⚡ Fun fact: Guita
+🤠 this is a emoji 
 
 
 ## My Skills for web 
