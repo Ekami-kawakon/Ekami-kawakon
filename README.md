@@ -3,14 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=41&pause=1000&color=1A9FA5CE&background=2A6BC300&multiline=true&width=435&lines=welcome%2Cthis+is+ekami)](https://git.io/typing-svg)
 
 
-## 📌 关于我
-- 🔭 目前专注于：[你的技术方向，如「Vue3 + SpringBoot 全栈开发」]
-- 🌱 学习中：[正在学的技术，如「React 生态、Java Stream 编程」]
-- 💬 擅长：[技术领域，如「前端工程化、后端接口设计」]
-- 📫 联系我：[邮箱/博客/公众号，如 `xxx@xxx.com` | [个人博客](https://www.ekami.asia/)]
-- ⚡ 趣味：[个性化标签，如「Steam 游戏爱好者、摄影、徒步」]
-
-
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -55,9 +47,7 @@
 
 
 
-# 👋 Hi, I'm [Ekami-kawakon]
-<!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
-💻 Full Stack Developer | 🚀 Vue/React/SpringBoot 实践者 | 🎮 游戏爱好者
+
 
 <!-- 技术栈徽章（复用你之前的居中代码） -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
@@ -92,9 +82,4 @@
 | [项目2](项目链接) | SpringBoot + MySQL + Redis | 「xxx 接口服务」：提供 xxx 接口，支持高并发 |
 
 ## 🎨 趣味数据
-<!-- GitHub 贡献图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ekami-kawakon
-&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
-</div>
 
