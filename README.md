@@ -3,6 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=41&pause=1000&color=1A9FA5CE&background=2A6BC300&multiline=true&width=435&lines=welcome%2Cthis+is+ekami)](https://git.io/typing-svg)
 
 
+## 📌 关于我
+- 🔭 目前专注于：[你的技术方向，如「Vue3 + SpringBoot 全栈开发」]
+- 🌱 学习中：[正在学的技术，如「React 生态、Java Stream 编程」]
+- 💬 擅长：[技术领域，如「前端工程化、后端接口设计」]
+- 📫 联系我：[邮箱/博客/公众号，如 `xxx@xxx.com` | [个人博客](https://www.ekami.asia/)]
+- ⚡ 趣味：[个性化标签，如「Steam 游戏爱好者、摄影、徒步」]
 
 
 
@@ -71,12 +77,6 @@
   <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" />
 </div>
 
-## 📌 关于我
-- 🔭 目前专注于：[你的技术方向，如「Vue3 + SpringBoot 全栈开发」]
-- 🌱 学习中：[正在学的技术，如「React 生态、Java Stream 编程」]
-- 💬 擅长：[技术领域，如「前端工程化、后端接口设计」]
-- 📫 联系我：[邮箱/博客/公众号，如 `xxx@xxx.com` | [个人博客](https://www.ekami.asia/)]
-- ⚡ 趣味：[个性化标签，如「Steam 游戏爱好者、摄影、徒步」]
 
 ## 📊 我的 GitHub 数据
 <!-- 自动生成的 GitHub 统计卡片 -->
